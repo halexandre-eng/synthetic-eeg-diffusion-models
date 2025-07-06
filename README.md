@@ -1,5 +1,5 @@
 
-# synthetic-eeg-diffusion-models
+# Synthetic EEG Diffusion Models
 
 ## Overview
 
